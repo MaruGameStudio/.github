@@ -1,12 +1,11 @@
-## Hi there 👋
+# Maru Game Studio
 
-<!--
+*Indie game studio — founded 2024.*  
+Chúng tôi tạo ra những trò chơi vui, mượt, và nặng tính hoàn thiện cho **mobile** và **PC**.
 
-**Here are some ideas to get you started:**
+**🔗 Website:** [marugamestudio.com](https://marugamestudio.com)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Liên hệ
+- Website: [marugamestudio.com](https://marugamestudio.com)
+- Email: [hello@marugamestudio.com](mailto:hello@marugamestudio.com) <!-- đổi sang email chính thức -->
+- Tuyển dụng/Hợp tác: [Thêm link tại đây](#) <!-- thay bằng link Notion/Form -->
