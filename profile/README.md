@@ -1,11 +1,24 @@
-# Maru Game Studio
+<div align="center">
 
-*Indie game studio — founded 2024.*  
-Chúng tôi tạo ra những trò chơi vui, mượt, và nặng tính hoàn thiện cho **mobile** và **PC**.
+# 🎮 Maru Game Studio
 
-**🔗 Website:** [marugamestudio.com](https://marugamestudio.com)
+*Indie game studio — founded in 2024.*  
+We create fun, smooth, and highly polished games for **mobile** and **PC**.
 
-## Liên hệ
-- Website: [marugamestudio.com](https://marugamestudio.com)
-- Email: [hello@marugamestudio.com](mailto:hello@marugamestudio.com) <!-- đổi sang email chính thức -->
-- Tuyển dụng/Hợp tác: [Thêm link tại đây](#) <!-- thay bằng link Notion/Form -->
+<p>
+  <img alt="Founded 2024" src="https://img.shields.io/badge/Founded-2024-5E5DF0?style=for-the-badge">
+  <img alt="Platforms Mobile & PC" src="https://img.shields.io/badge/Platforms-Mobile_·_PC-0EA5E9?style=for-the-badge">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Fun_·_Smooth_·_Polished-22C55E?style=for-the-badge">
+  <!-- Uncomment if you want to show your engine
+  <img alt="Unity" src="https://img.shields.io/badge/Made%20with-Unity-000000?logo=unity&logoColor=white&style=for-the-badge">
+  -->
+</p>
+
+</div>
+
+---
+
+## ✉️ Contact
+
+- 🌐 Website: **[marugamestudio.com](https://marugamestudio.com)**
+- 📧 Email: **[marugamestudio@gmail.com](mailto:marugamestudio@gmail.com)** <!-- change to official email -->
