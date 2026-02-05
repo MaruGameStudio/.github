@@ -21,4 +21,4 @@ We create fun, smooth, and highly polished games for **mobile** and **PC**.
 ## ✉️ Contact
 
 - 🌐 Website: **[marugamestudio.com](https://marugamestudio.com)**
-- 📧 Email: **[marugamestudio@gmail.com](mailto:marugamestudio@gmail.com)** <!-- change to official email -->
+- 📧 Email: **[minhkhoa.dev@gmail.com](mailto:minhkhoa.dev@gmail.com)** <!-- change to official email -->
